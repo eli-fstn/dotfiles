@@ -1,0 +1,14 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / temporary files
+*.swp
+*.tmp
+*~
