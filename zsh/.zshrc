@@ -123,3 +123,6 @@ source $ZSH/oh-my-zsh.sh
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
+
+export PATH=$PATH:/home/skywie/.spicetify
+export PATH="$HOME/.spicetify:$PATH"
