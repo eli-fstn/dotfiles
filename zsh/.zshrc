@@ -126,3 +126,8 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 
 export PATH=$PATH:/home/skywie/.spicetify
 export PATH="$HOME/.spicetify:$PATH"
+export PATH="$HOME/.local/bin:$PATH"
+
+alias ff="fastfetch"
+alias update="sudo dnf update -y"
+alias upgrade="sudo dnf upgrade -y"
